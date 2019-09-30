@@ -2,7 +2,7 @@
 
 ## これは何？
 
-[PISA (Programme for International Student Assessment)](https://www.acer.org/ozpisa)データをcsvファイルに変換するスクリプトです。
+[PISA (Programme for International Student Assessment)](https://www.oecd.org/pisa/)データをcsvファイルに変換するスクリプトです。
 
 PISAデータは固定長txtファイルなので，そのままではRで扱うのが面倒です。そのため，pythonを使ってcsvデータに変換します。このスクリプトは，データのダウンロードからcsvの変換までを行います。
 
