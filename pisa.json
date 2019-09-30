@@ -1,0 +1,110 @@
+{
+  "pisa2000sch": {
+    "file": "PISA2000 School questionnaire data file (628kB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/intscho.zip",
+    "zip md5sum": "4d7fb116b30ead05fff8fb3f62e0c753",
+    "txt name": "intscho.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2000_SPSS_school_questionnaire.txt",
+    "sps md5sum": "e007369f63d613bafbd4ebfc6c81d21f",
+    "CNT": "ALB,ARG,AUS,AUT,BEL,BGR,BRA,CAN,CHE,CHL,CZE,DEU,DNK,ESP,FIN,FRA,GBR,GRC,HKG,HUN,IDN,IRL,ISL,ISR,ITA,JPN,KOR,LIE,LUX,LVA,MEX,MKD,NLD,NOR,NZL,PER,POL,PRT,ROM,RUS,SWE,THA,USA"
+  },
+  "pisa2000math": {
+    "file": "PISA2000 Student questionnaire and mathematic achievement data file (25.6MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/intstud_math.zip",
+    "zip md5sum": "6bdecb772c7ec9d665d2aab3b178ce48",
+    "txt name": "intstud_math_v3.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2000_SPSS_student_mathematics.txt",
+    "sps md5sum": "273d7dda83d762ff53c7c0fc718abc8d",
+    "CNT": "ALB,ARG,AUS,AUT,BEL,BGR,BRA,CAN,CHE,CHL,CZE,DEU,DNK,ESP,FIN,FRA,GBR,GRC,HKG,HUN,IDN,IRL,ISL,ISR,ITA,JPN,KOR,LIE,LUX,LVA,MEX,MKD,NLD,NOR,NZL,PER,POL,PRT,ROM,RUS,SWE,THA,USA"
+  },
+  "pisa2000read": {
+    "file": "PISA2000 Student questionnaire and reading achievement data file (46.5MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/intstud_read.zip",
+    "zip md5sum": "367c9333e68955e7d86769e2d9bdeb7f",
+    "txt name": "intstud_read_v3.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2000_SPSS_student_reading.txt",
+    "sps md5sum": "80e56f44c5eb454e90588dbb8a7f6fe4",
+    "CNT": "ALB,ARG,AUS,AUT,BEL,BGR,BRA,CAN,CHE,CHL,CZE,DEU,DNK,ESP,FIN,FRA,GBR,GRC,HKG,HUN,IDN,IRL,ISL,ISR,ITA,JPN,KOR,LIE,LUX,LVA,MEX,MKD,NLD,NOR,NZL,PER,POL,PRT,ROM,RUS,SWE,THA,USA"
+  },
+  "pisa2000scie": {
+    "file": "PISA2000 Student questionnaire and science achievement data file (25.6MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/intstud_scie.zip",
+    "zip md5sum": "1bd6f674b59f0c8d58e15801be300696",
+    "txt name": "intstud_scie_v3.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2000_SPSS_student_science.txt",
+    "sps md5sum": "7c5a137ac7483156f92c139c2c769194",
+    "CNT": "ALB,ARG,AUS,AUT,BEL,BGR,BRA,CAN,CHE,CHL,CZE,DEU,DNK,ESP,FIN,FRA,GBR,GRC,HKG,HUN,IDN,IRL,ISL,ISR,ITA,JPN,KOR,LIE,LUX,LVA,MEX,MKD,NLD,NOR,NZL,PER,POL,PRT,ROM,RUS,SWE,THA,USA"
+  },
+  "pisa2003stu": {
+    "file": "PISA2003 Student questionnaire data file (100 MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/INT_stui_2003_v2.zip",
+    "zip md5sum": "1a0d26428c9523d0fc617a9e91e83d19",
+    "txt name": "INT_stui_2003_v2.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2003_SPSS_student.txt",
+    "sps md5sum": "323d4c860469ff411209545361cdf56f",
+    "CNT": "AUS,AUT,BEL,BRA,CAN,CHE,CZE,DEU,DNK,ESP,FIN,FRA,GBR,GRC,HKG,HUN,IDN,IRL,ISL,ITA,JPN,KOR,LIE,LUX,LVA,MAC,MEX,NLD,NOR,NZL,POL,PRT,RUS,SVK,SWE,THA,TUN,TUR,URY,USA,YUG"
+  },
+  "pisa2003sch": {
+    "file": "PISA2003 School questionnaire data file (1.3 MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/INT_schi_2003.zip",
+    "zip md5sum": "b0cbfd72c98b3aff7b9b78c2a02b2127",
+    "txt name": "INT_schi_2003.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2003_SPSS_school.txt",
+    "sps md5sum": "6d0f6b84aea29e29d84c9a1435eabcc9",
+    "CNT": "AUS,AUT,BEL,BRA,CAN,CHE,CZE,DEU,DNK,ESP,FIN,FRA,GBR,GRC,HKG,HUN,IDN,IRL,ISL,ITA,JPN,KOR,LIE,LUX,LVA,MAC,MEX,NLD,NOR,NZL,POL,PRT,RUS,SVK,SWE,THA,TUN,TUR,URY,USA,YUG"
+  },
+  "pisa2006stu": {
+    "file": "PISA2006 Student questionnaire data file (151 MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/INT_Stu06_Dec07.zip",
+    "zip md5sum": "eadaf592974b4101040adcfd8c8102ee",
+    "txt name": "INT_Stu06_Dec07.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2006_SPSS_student.txt",
+    "sps md5sum": "87b48d91d151e75b5dc99e64dd7d6031",
+    "CNT": "ARG,AUS,AUT,AZE,BEL,BGR,BRA,CAN,CHE,CHL,COL,CZE,DEU,DNK,ESP,EST,FIN,FRA,GBR,GRC,HKG,HRV,HUN,IDN,IRL,ISL,ISR,ITA,JOR,JPN,KGZ,KOR,LIE,LTU,LUX,LVA,MAC,MEX,MNE,NLD,NOR,NZL,POL,PRT,QAT,ROU,RUS,SRB,SVK,SVN,SWE,TAP,THA,TUN,TUR,URY,USA"
+  },
+  "pisa2006sch": {
+    "file": "PISA2006 School questionnaire data file (1 MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/INT_Sch06_Dec07.zip",
+    "zip md5sum": "fe79232f50b351c955b574d64a97cbdc",
+    "txt name": "INT_Sch06_Dec07.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2006_SPSS_school.txt",
+    "sps md5sum": "e62d2337d74bf362fe206b99c0d30bdb",
+    "CNT": "ARG,AUS,AUT,AZE,BEL,BGR,BRA,CAN,CHE,CHL,COL,CZE,DEU,DNK,ESP,EST,FIN,FRA,GBR,GRC,HKG,HRV,HUN,IDN,IRL,ISL,ISR,ITA,JOR,JPN,KGZ,KOR,LIE,LTU,LUX,LVA,MAC,MEX,MNE,NLD,NOR,NZL,POL,PRT,QAT,ROU,RUS,SRB,SVK,SVN,SWE,TAP,THA,TUN,TUR,URY,USA"
+  },
+  "pisa2009stu": {
+    "file": "PISA2009 Student questionnaire data file (168 MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/INT_STQ09_DEC11.zip",
+    "zip md5sum": "ee275389f0d06e81195afe6122eaf5ce",
+    "txt name": "INT_STQ09_DEC11.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2009_SPSS_student.txt",
+    "sps md5sum": "11faa33e8f93e410ded21f91b5a93f5d",
+    "CNT": "ALB,ARE,ARG,AUS,AUT,AZE,BEL,BGR,BRA,CAN,CHE,CHL,COL,CRI,CZE,DEU,DNK,ESP,EST,FIN,FRA,GBR,GEO,GRC,HKG,HRV,HUN,IDN,IRL,ISL,ISR,ITA,JOR,JPN,KAZ,KGZ,KOR,LIE,LTU,LUX,LVA,MAC,MDA,MEX,MLT,MNE,MUS,MYS,NLD,NOR,NZL,PAN,PER,POL,PRT,QAT,QCN,QHP,QTN,QVE,ROU,RUS,SGP,SRB,SVK,SVN,SWE,TAP,THA,TTO,TUN,TUR,URY,USA"
+  },
+  "pisa2009sch": {
+    "file": "PISA2009 School questionnaire data file (1.8 MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/INT_SCQ09_Dec11.zip",
+    "zip md5sum": "41d1d87883ad6dd447a55c5a5dc158c5",
+    "txt name": "INT_SCQ09_Dec11.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2009_SPSS_school.txt",
+    "sps md5sum": "00c2574a71972c3e1ae3bfcec437b9d4",
+    "CNT": "ALB,ARE,ARG,AUS,AUT,AZE,BEL,BGR,BRA,CAN,CHE,CHL,COL,CRI,CZE,DEU,DNK,ESP,EST,FIN,FRA,GBR,GEO,GRC,HKG,HRV,HUN,IDN,IRL,ISL,ISR,ITA,JOR,JPN,KAZ,KGZ,KOR,LIE,LTU,LUX,LVA,MAC,MDA,MEX,MLT,MNE,MUS,MYS,NLD,NOR,NZL,PAN,PER,POL,PRT,QAT,QCN,QHP,QTN,QVE,ROU,RUS,SGP,SRB,SVK,SVN,SWE,TAP,THA,TTO,TUN,TUR,URY,USA"
+  },
+  "pisa2012stu": {
+    "file": "PISA2012 Student questionnaire data file (227 MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/INT_STU12_DEC03.zip",
+    "zip md5sum": "c2dc6253c670cf3f211599ce84db97cb",
+    "txt name": "INT_STU12_DEC03.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2012_SPSS_student.txt",
+    "sps md5sum": "e1271eb9df3ce5caf025c90f9fd5eb8d",
+    "CNT": "ALB,ARE,ARG,AUS,AUT,BEL,BGR,BRA,CAN,CHE,CHL,COL,CRI,CZE,DEU,DNK,ESP,EST,FIN,FRA,GBR,GRC,HKG,HRV,HUN,IDN,IRL,ISL,ISR,ITA,JOR,JPN,KAZ,KOR,LIE,LTU,LUX,LVA,MAC,MEX,MNE,MYS,NLD,NOR,NZL,PER,POL,PRT,QAT,QCN,QRS,ROU,RUS,SGP,SRB,SVK,SVN,SWE,TAP,THA,TUN,TUR,URY,USA,VNM"
+  },
+  "pisa2012sch": {
+    "file": "PISA2012 School questionnaire data file (3 MB)",
+    "zip url": "https://www.oecd.org/pisa/pisaproducts/INT_SCQ12_DEC03.zip",
+    "zip md5sum": "f2ee9eda34f2be7f802719f9af0fa462",
+    "txt name": "INT_SCQ12_DEC03.txt",
+    "sps url": "https://www.oecd.org/pisa/pisaproducts/PISA2012_SPSS_school.txt",
+    "sps md5sum": "70ab3864ef3358491a85b1d3238930f7",
+    "CNT": "ALB,ARE,ARG,AUS,AUT,BEL,BGR,BRA,CAN,CHE,CHL,COL,CRI,CZE,DEU,DNK,ESP,EST,FIN,FRA,GBR,GRC,HKG,HRV,HUN,IDN,IRL,ISL,ISR,ITA,JOR,JPN,KAZ,KOR,LIE,LTU,LUX,LVA,MAC,MEX,MNE,MYS,NLD,NOR,NZL,PER,POL,PRT,QAT,QCN,QRS,ROU,RUS,SGP,SRB,SVK,SVN,SWE,TAP,THA,TUN,TUR,URY,USA,VNM"
+  }
+}
